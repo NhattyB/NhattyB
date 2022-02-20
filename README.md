@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<a href="https://twitter.com/Natnalebirhanu1/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://twitter.com/Natnalebirhanu1/"><img alt="Website" src="https://img.shields.io/badge/twitter-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/Nhatty-birhanu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nhatty%20Birhanu-blue?style=flat-square&logo=linkedin"></a>
 
