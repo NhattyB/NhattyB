@@ -74,7 +74,7 @@
 
 <a href="https://www.linkedin.com/in/Nhatty-birhanu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nhatty%20Birhanu-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/nhatty_birhanu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/imnot.natu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:nhattyharry@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nhattyharry@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
